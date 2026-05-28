@@ -1,4 +1,4 @@
-# dew-02
+# test1
 <h1 align="center">Hi 👋, I'm Dewmini Jayasinghe</h1>
 <h3 align="center">👩‍💻 Dewmini Jayasinghe | Undergraduate @ SLIIT University, Sri Lanka, Aspiring Web Developer</h3>
 
